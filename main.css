@@ -2,16 +2,13 @@ body {
   background: #f7fafd;
 }
 
-#pageBody{
-  display: flex;
-  justify-content: center;
-    align-items: center;  
-    border: 1px solid; /* 見た目用 */
-}
-
 #siteTitle {
   font-size: 36px;
   font-family: serif;
+}
+
+.articleDetailHead{
+  margin: 10px;
 }
 
 #catchcopy {
@@ -36,3 +33,62 @@ li {
   font-family: serif;
   font-weight: 600;
 }
+
+.articleDetailFoot{
+  width:100%;
+  position: absolute;
+  bottom: 0;
+  padding:10px 0 10px 15px ;
+  background-color: #efeef3;
+}
+.articleDetailFoot > #copyright{
+  margin-top: 5px;
+}
+
+.career {
+  margin: 10px;
+  font-size: 1.5rem;
+}
+
+.career h2 {
+  font-size: 1.5rem;
+  margin: 5px 0px;
+  font-weight: bold;
+}
+
+
+.career_list {
+  border: solid 1px black;  
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.career_list li {
+  padding: 15px; 
+}
+
+.activity {
+  margin: 10px;
+}
+
+.calendar {
+  margin: 10px;
+}
+
+.newsList {
+  margin: 10px;
+}
+
+.goal {
+  margin: 10px;
+}
+
+.relationlink{
+  margin: 10px;
+}
+
+.articleDetailFoot {
+  margin: 10px;
+}
+
+
