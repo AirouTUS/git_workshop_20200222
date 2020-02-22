@@ -1,0 +1,15 @@
+{
+  "name": "git_workshop_20200222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@private:AirouTUS/git_workshop_20200222.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
