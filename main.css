@@ -36,3 +36,14 @@ li {
   font-family: serif;
   font-weight: 600;
 }
+
+.articleDetailFoot{
+  width:100%;
+  position: absolute;
+  bottom: 0;
+  padding:10px 0 10px 15px ;
+  background-color: #efeef3;
+}
+.articleDetailFoot > #copyright{
+  margin-top: 5px;
+}
