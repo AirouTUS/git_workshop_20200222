@@ -2,16 +2,13 @@ body {
   background: #f7fafd;
 }
 
-#pageBody{
-  display: flex;
-  justify-content: center;
-    align-items: center;  
-    border: 1px solid; /* 見た目用 */
-}
-
 #siteTitle {
   font-size: 36px;
   font-family: serif;
+}
+
+.articleDetailHead{
+  margin: 10px;
 }
 
 #catchcopy {
@@ -58,4 +55,29 @@ li {
 .career_list li {
   padding: 15px; 
 }
+
+.activity {
+  margin: 10px;
+}
+
+.calendar {
+  margin: 10px;
+}
+
+.newsList {
+  margin: 10px;
+}
+
+.goal {
+  margin: 10px;
+}
+
+.relationlink{
+  margin: 10px;
+}
+
+.articleDetailFoot {
+  margin: 10px;
+}
+
 
