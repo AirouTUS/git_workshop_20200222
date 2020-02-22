@@ -1,9 +1,38 @@
 body {
   background: #f7fafd;
 }
+
 #pageBody{
   display: flex;
   justify-content: center;
     align-items: center;  
     border: 1px solid; /* 見た目用 */
+}
+
+#siteTitle {
+  font-size: 36px;
+  font-family: serif;
+}
+
+#catchcopy {
+  font-size: large;
+  font-family: serif;
+  font-weight: 700;
+}
+
+.normal {
+  font-size: medium;
+  font-family: serif;
+  font-weight: 600;
+}
+
+.subtitle {
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+li {
+  font-size: medium;
+  font-family: serif;
+  font-weight: 600;
 }
