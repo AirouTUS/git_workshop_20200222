@@ -67,6 +67,28 @@ li {
   padding: 15px; 
 }
 
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  height:auto;
+}
+
+table tr{
+  border-bottom: solid 1px #999;
+  cursor: pointer;
+}
+
+table tr:hover{
+  background-color: rgba(0,0,0,0.1);
+}
+
+table th,table td{
+  text-align: center;
+  width: auto;
+  padding: 15px 0;
+}
+
 .activity {
   margin: 10px;
 }
