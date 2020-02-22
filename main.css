@@ -1,3 +1,61 @@
 body {
-  background: blue;
+  background: #f7fafd;
 }
+
+#pageBody{
+  display: flex;
+  justify-content: center;
+    align-items: center;  
+    border: 1px solid; /* 見た目用 */
+}
+
+#siteTitle {
+  font-size: 36px;
+  font-family: serif;
+}
+
+#catchcopy {
+  font-size: large;
+  font-family: serif;
+  font-weight: 700;
+}
+
+.normal {
+  font-size: medium;
+  font-family: serif;
+  font-weight: 600;
+}
+
+.subtitle {
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+li {
+  font-size: medium;
+  font-family: serif;
+  font-weight: 600;
+}
+
+.career {
+  margin: 10px;
+  font-size: 1.5rem;
+}
+
+.career h2 {
+  font-size: 1.5rem;
+  margin: 5px 0px;
+  font-weight: bold;
+}
+
+
+.career_list {
+  border: solid 1px black;  
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.career_list li {
+  padding: 15px; 
+}
+
