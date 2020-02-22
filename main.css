@@ -72,7 +72,7 @@ table tr{
 }
 
 table tr:hover{
-  background-color: rgba(212, 240, 253,0.8);
+  background-color: rgba(0,0,0,0.1);
 }
 
 table th,table td{
