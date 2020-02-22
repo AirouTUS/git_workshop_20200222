@@ -12,12 +12,20 @@ body {
 #siteTitle {
   font-size: 36px;
   font-family: serif;
+  line-height: 1.5;
+}
+
+.heading-typeA {
+  font-size: 24px;
+  font-family: sans-serif;
+  line-height: 2.0;
 }
 
 #catchcopy {
   font-size: large;
   font-family: serif;
   font-weight: 700;
+  line-height: 1.7;
 }
 
 .normal {
@@ -29,10 +37,12 @@ body {
 .subtitle {
   font-size: 24px;
   font-family: sans-serif;
+  line-height: 2.0;
 }
 
 li {
   font-size: medium;
   font-family: serif;
   font-weight: 600;
+  line-height: 1.7;
 }
