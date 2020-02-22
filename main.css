@@ -59,3 +59,24 @@ li {
   padding: 15px; 
 }
 
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  height:auto;
+}
+
+table tr{
+  border-bottom: solid 1px #999;
+  cursor: pointer;
+}
+
+table tr:hover{
+  background-color: rgba(212, 240, 253,0.8);
+}
+
+table th,table td{
+  text-align: center;
+  width: 25%;
+  padding: 15px 0;
+}
